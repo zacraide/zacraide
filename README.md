@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**zacraide/zacraide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at CTU (Czech Technical University) passionate about building clean, efficient and practical software.
 
-Here are some ideas to get you started:
+### 🚀 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Low-level programming** — learning C/C++ and understanding how things work under the hood.
+* **Linux workflows** — improving efficiency with terminal tools and system structure.
+* **Version control** — mastering Git for clean and maintainable development.
+* **Web development** — currently building a web-based generator tool (details coming soon).
+
+### 📫 Contact
+
+**Email:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
+
+Always improving, always learning.
+
