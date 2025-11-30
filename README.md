@@ -1,6 +1,6 @@
 ## Hey there! I'm Matej 👋
 
-I'm a Computer Science student at **CTU** (Czech Technical University). I prefer the terminal over GUIs and enjoy digging deep into how computers actually work.
+I'm a Computer Science student at **CTU** (Czech Technical University). 
 
 ### ⚡ What keeps me busy?
 
