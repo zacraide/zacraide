@@ -1,17 +1,12 @@
-## Hi there 👋
+## Hey there! I'm Matej 👋
 
-I'm a Computer Science student at CTU (Czech Technical University) passionate about building clean, efficient and practical software.
+I'm a Computer Science student at **CTU** (Czech Technical University). I prefer the terminal over GUIs and enjoy digging deep into how computers actually work.
 
-### 🚀 What I Work On
+### ⚡ What keeps me busy?
 
-* **Low-level programming** - learning C/C++ and understanding how things work under the hood.
-* **Linux workflows** - improving efficiency with terminal tools and system structure.
-* **Version control** - mastering Git for clean and maintainable development.
-* **Web development** - currently building a web-based generator tool (details coming soon).
+* **Going Low-Level:** Currently mastering **C/C++**. I want to understand what happens under the hood.
+* **Linux Life:** Tweaking workflows and getting comfortable with the command line.
+* **Building Tools:** Working on a web-based generator to bring back some nostalgia.
 
-### 📫 Contact
-
-**Email:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
-
-Always improving, always learning.
+📫 **Contact:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
 
