@@ -1,12 +1,21 @@
-## Hey there! I'm Matej 👋
+Hey there! I'm Matej 👋
+I'm a Computer Science student at CTU FIT (Czech Technical University), balancing rigorous academic theory with a passion for building functional, user-centric web applications.
 
-I'm a Computer Science student at **CTU** (Czech Technical University). 
+🚀 What I'm building right now
+I don't just follow tutorials; I build products that live on their own domains:
 
-### ⚡ What am I up to rn? 
+drafted.lol – A specialized tool for the League of Legends community. Focused on complex UI logic and seamless data flow.
 
-* **Going Low-Level:** Currently mastering **C/C++**. I want to understand what happens under the hood.
-* **Linux Life:** Tweaking workflows and getting comfortable with the command line.
-* **Building Tools:** Working on a web-based generator.
+spinmyepisode.com – A web app for series enthusiasts. Built with a focus on clean UX and performance.
+
+CITA Kaizen – Currently finalizing a project for a real-world organization, focusing on structured development and meeting specific requirements.
+
+🛠️ Tech Stack & Skills
+Frontend: React, JavaScript (ES6+), Tailwind CSS, Responsive Design.
+
+Backend & Tools: Basic Node.js, Git, Linux (command line enthusiast).
+
+University Core: Mastering C/C++ to deeply understand memory management and "under the hood" logic.
 
 📫 **Contact:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
 
