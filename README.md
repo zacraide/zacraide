@@ -17,5 +17,5 @@ I'm a **Computer Science student at CTU FIT** (Czech Technical University), bala
 ### 📫 Contact
 
 * **Email:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
-* **LinkedIn:** [(https://www.linkedin.com/in/matej-castek/)]
+* **LinkedIn:** https://www.linkedin.com/in/matej-castek/
 
