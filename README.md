@@ -4,18 +4,18 @@ I'm a Computer Science student at CTU FIT (Czech Technical University), balancin
 🚀 What I'm building right now
 I don't just follow tutorials; I build products that live on their own domains:
 
-drafted.lol – A specialized tool for the League of Legends community. Focused on complex UI logic and seamless data flow.
+  drafted.lol – A specialized tool for the League of Legends community. Focused on complex UI logic and seamless data flow.
 
-spinmyepisode.com – A web app for series enthusiasts. Built with a focus on clean UX and performance.
+  spinmyepisode.com – A web app for series enthusiasts. Built with a focus on clean UX and performance.
 
-CITA Kaizen – Currently finalizing a project for a real-world organization, focusing on structured development and meeting specific requirements.
+  CITA Kaizen – Currently finalizing a project for a real-world organization, focusing on structured development and meeting specific requirements.
 
 🛠️ Tech Stack & Skills
-Frontend: React, JavaScript (ES6+), Tailwind CSS, Responsive Design.
-
-Backend & Tools: Basic Node.js, Git, Linux (command line enthusiast).
-
-University Core: Mastering C/C++ to deeply understand memory management and "under the hood" logic.
+  Frontend: React, JavaScript (ES6+), Tailwind CSS, Responsive Design.
+  
+  Backend & Tools: Basic Node.js, Git, Linux (command line enthusiast).
+  
+  University Core: Mastering C/C++ to deeply understand memory management and "under the hood" logic.
 
 📫 **Contact:** [matejcas123@gmail.com](mailto:matejcas123@gmail.com)
 
